@@ -93,3 +93,15 @@ input[type='submit']:hover{
     cursor: pointer;
 
 }
+
+footer{
+    height: 50px;
+    border-top: 1px solid #4a4848;
+    color: #A16AE8;
+    display: grid;
+    place-items: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+
+}
